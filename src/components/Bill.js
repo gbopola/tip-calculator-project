@@ -1,5 +1,4 @@
-import React from 'react';
-import { useState, useEffect } from 'react/cjs/react.development';
+import React, { useState, useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import dollar from '../images/icon-dollar.svg';
 import { restrictNumbers } from '../utils';

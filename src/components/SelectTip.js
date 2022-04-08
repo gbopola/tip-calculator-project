@@ -1,8 +1,7 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { addTip } from '../redux/tip/tipActions';
 import { useDispatch, useSelector } from 'react-redux';
 import { restrictNumbers } from '../utils';
-import { useEffect } from 'react/cjs/react.development';
 
 export const SelectTip = () => {
   // select tip button state

@@ -1,9 +1,8 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import person from '../images/icon-person.svg';
 import { addNum } from '../redux/tip/tipActions';
 import { restrictNumbers } from '../utils';
 import { useDispatch, useSelector } from 'react-redux';
-import { useEffect } from 'react/cjs/react.development';
 
 export const PeopleTotal = () => {
   // global state
