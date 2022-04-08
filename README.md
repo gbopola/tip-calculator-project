@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screencapture-silver-alpaca-1ad35b-netlify-app-2022-04-08-12_28_30.png)
+![](file:///C:/Users/ThinkPad/Downloads/screencapture-silver-alpaca-1ad35b-netlify-app-2022-04-08-12_28_30.png)
 
 ### Links
 
