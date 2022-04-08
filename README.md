@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/koOOvjv" data-context="false" ><a href="//imgur.com/a/koOOvjv"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/a/koOOvjv" />
 
 ### Links
 
