@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](file:///C:/Users/ThinkPad/Downloads/screencapture-silver-alpaca-1ad35b-netlify-app-2022-04-08-12_28_30.png)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/koOOvjv" data-context="false" ><a href="//imgur.com/a/koOOvjv"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### Links
 
